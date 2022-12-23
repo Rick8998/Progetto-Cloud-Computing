@@ -1,6 +1,6 @@
 # Progetto-Cloud-Computing
 
-## Sviluppo di un tutorial su google cloud platform
+## Sviluppo di un progetto su google cloud platform
 
 ### It Speaks! Create Synthetic Speech Using Text-to-Speech 
 
